@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C6F76DB4-B7D9-4E6E-9029-11EBB7322CD2}|Default">
+  <MonoDevelop.Ide.ItemProperties.BankTransaction PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="10" Column="74" />
+      <File FileName="Program.cs" Line="6" Column="7" />
+      <File FileName="Models/Transaction.cs" Line="22" Column="38" />
+      <File FileName="Models/TransactionDbContext.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankTransaction" expanded="True">
+            <Node name="BankTransaction" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
